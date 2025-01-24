@@ -1,0 +1,15 @@
+/Users/mehul/Documents/DSA_Practice/MyApp/bin/Debug/net8.0/MyApp
+/Users/mehul/Documents/DSA_Practice/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/Users/mehul/Documents/DSA_Practice/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/Users/mehul/Documents/DSA_Practice/MyApp/bin/Debug/net8.0/MyApp.dll
+/Users/mehul/Documents/DSA_Practice/MyApp/bin/Debug/net8.0/MyApp.pdb
+/Users/mehul/Documents/DSA_Practice/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehul/Documents/DSA_Practice/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/Users/mehul/Documents/DSA_Practice/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/Users/mehul/Documents/DSA_Practice/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/mehul/Documents/DSA_Practice/MyApp/obj/Debug/net8.0/MyApp.sourcelink.json
+/Users/mehul/Documents/DSA_Practice/MyApp/obj/Debug/net8.0/MyApp.dll
+/Users/mehul/Documents/DSA_Practice/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/Users/mehul/Documents/DSA_Practice/MyApp/obj/Debug/net8.0/MyApp.pdb
+/Users/mehul/Documents/DSA_Practice/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/Users/mehul/Documents/DSA_Practice/MyApp/obj/Debug/net8.0/ref/MyApp.dll
