@@ -1,0 +1,15 @@
+/Users/mehul/Documents/DSA_Practice/BubbleSort/obj/Debug/net8.0/BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehul/Documents/DSA_Practice/BubbleSort/obj/Debug/net8.0/BubbleSort.AssemblyInfoInputs.cache
+/Users/mehul/Documents/DSA_Practice/BubbleSort/obj/Debug/net8.0/BubbleSort.AssemblyInfo.cs
+/Users/mehul/Documents/DSA_Practice/BubbleSort/obj/Debug/net8.0/BubbleSort.csproj.CoreCompileInputs.cache
+/Users/mehul/Documents/DSA_Practice/BubbleSort/obj/Debug/net8.0/BubbleSort.sourcelink.json
+/Users/mehul/Documents/DSA_Practice/BubbleSort/bin/Debug/net8.0/BubbleSort
+/Users/mehul/Documents/DSA_Practice/BubbleSort/bin/Debug/net8.0/BubbleSort.deps.json
+/Users/mehul/Documents/DSA_Practice/BubbleSort/bin/Debug/net8.0/BubbleSort.runtimeconfig.json
+/Users/mehul/Documents/DSA_Practice/BubbleSort/bin/Debug/net8.0/BubbleSort.dll
+/Users/mehul/Documents/DSA_Practice/BubbleSort/bin/Debug/net8.0/BubbleSort.pdb
+/Users/mehul/Documents/DSA_Practice/BubbleSort/obj/Debug/net8.0/BubbleSort.dll
+/Users/mehul/Documents/DSA_Practice/BubbleSort/obj/Debug/net8.0/refint/BubbleSort.dll
+/Users/mehul/Documents/DSA_Practice/BubbleSort/obj/Debug/net8.0/BubbleSort.pdb
+/Users/mehul/Documents/DSA_Practice/BubbleSort/obj/Debug/net8.0/BubbleSort.genruntimeconfig.cache
+/Users/mehul/Documents/DSA_Practice/BubbleSort/obj/Debug/net8.0/ref/BubbleSort.dll
