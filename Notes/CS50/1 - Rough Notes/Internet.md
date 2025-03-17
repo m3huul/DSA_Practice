@@ -36,3 +36,5 @@ DNS is a collection of servers on the internet whose purpose in life is to conve
 # Conclusion
 Lets take this for example:
 >https://www.example.com/
+
+This is a url is really an address to a servers folder, tho
