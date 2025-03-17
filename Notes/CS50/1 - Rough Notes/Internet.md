@@ -33,3 +33,6 @@ Now every server/router/computer will have a unique IP address, and now each com
 
 DNS is a collection of servers on the internet whose purpose in life is to convert domain names to IP addresses and vice versa.
 
+# Conclusion
+Lets take this for example:
+>https://www.example.com/
