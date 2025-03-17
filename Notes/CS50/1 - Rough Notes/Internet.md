@@ -6,7 +6,6 @@
 
 - The routing data will use any free nodes/routers to get the data from point A to B. Incase any node/router in the network is congested or unable to traverse the data, the data is routed through a different node. This system makes sure that the data sent and received properly.
 
-
 # TCP/IP (Routing protocols)
 
 These are just protocols/rules that the computers/routers/servers follow when sending, traversing or receiving data. 
