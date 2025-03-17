@@ -1,4 +1,4 @@
-# Whats actually happening under the hood?
+# What's actually happening under the hood?
 
 - We have routers/computers/servers from all around the globe connected with each other making a wide network (wired or wireless) which allows the data to flow for example from point A to point B to point C.
 
@@ -28,4 +28,3 @@ These are just protocols/rules that the computers/routers/servers follow when se
 		Vulnerable to interception, or un-encrypted.
 	- 443 - HTTPS
 		Secured or encrypted.
-		
