@@ -45,4 +45,6 @@ In the example:
 - example.com - This is the domain name.
 - com - This is the **TLD (Top Level Domain)** 
 
-Each computer has a way to refer to its own IP address 
+Each computer has a way to refer to its own IP address which can be done either by:
+- localhost
+- 127.0.0.1
