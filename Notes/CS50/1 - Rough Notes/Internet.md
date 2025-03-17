@@ -29,4 +29,4 @@ These are just protocols/rules that the computers/routers/servers follow when se
 		Secured or encrypted.
 
 # DNS (Domain Name System)
-Now every server/router/computer will have a unique IP address, and now each computer 
+Now every server/router/computer will have a unique IP address, and now each computer can use these IP addresses to request and send data. But for humans its hard to remember all the addresses and to solve this problem **DNS (Domain Name )** comes 
