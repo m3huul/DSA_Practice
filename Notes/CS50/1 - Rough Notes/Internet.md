@@ -37,4 +37,7 @@ DNS is a collection of servers on the internet whose purpose in life is to conve
 Lets take this for example:
 >https://www.example.com/
 
-This is a url is really an address to a servers folder, which we can use to request whatever the servers root contains as the example ends at **../**, furthermore we can use **../folderName/fileName** to access files and folders
+This is a url is really an address to a servers folder, which we can use to request whatever the servers root contains as the example ends at **../**, furthermore we can use **../folderName/fileName** to access files and folders.
+
+In the example:
+- HTTPS - Is the protocol used while exposing the 
