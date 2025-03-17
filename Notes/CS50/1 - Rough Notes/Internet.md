@@ -29,4 +29,4 @@ These are just protocols/rules that the computers/routers/servers follow when se
 		Secured or encrypted.
 
 # DNS (Domain Name System)
-Now every server/router/computer will have a unity IP address and w
+Now every server/router/computer will have a unique IP address, and now each computer can use its IP address
