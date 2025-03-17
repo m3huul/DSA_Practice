@@ -29,4 +29,6 @@ These are just protocols/rules that the computers/routers/servers follow when se
 		Secured or encrypted.
 
 # DNS (Domain Name System)
-Now every server/router/computer will have a unique IP address, and now each computer can use these IP addresses to request and send data. But for us humans its hard to remember all the addresses and to solve this problem **DNS (Domain Name System)** comes in which links all these IP addresses to a name, for example: 1.2.3.4:443 is can be linked to google.com. So we can say DNS 
+Now every server/router/computer will have a unique IP address, and now each computer can use these IP addresses to request and send data. But for us humans its hard to remember all the addresses and to solve this problem **DNS (Domain Name System)** comes in which links all these IP addresses to a name, for example: 1.2.3.4:443 is can be linked to google.com. So we can say that:
+
+DNS is a collection of servers on the internet whose purpose in life is to convert domain names to IP addre
