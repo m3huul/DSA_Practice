@@ -41,4 +41,5 @@ This is a url is really an address to a servers folder, which we can use to requ
 
 In the example:
 - HTTPS - Is the protocol used to expose the data. There are other protocols we can use such as HTTP, etc.
-- www - This is the host 
+- www - This is the host name.
+- example.com - This is the dom
