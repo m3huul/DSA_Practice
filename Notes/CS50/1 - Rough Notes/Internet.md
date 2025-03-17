@@ -40,6 +40,7 @@ Lets take this for example:
 This is a url is really an address to a servers folder, which we can use to request whatever the servers root contains as the example ends at **../**, furthermore we can use **../folderName/fileName** to access files and folders.
 
 In the example:
-- HTTPS - Is the protocol used to expose the data. There are other protocols we can use such as HTTP, etc.
+- HTTPS - This is the protocol used to expose the data. There are other protocols we can use such as HTTP, etc.
 - www - This is the host name.
-- example.com - This is the dom
+- example.com - This is the domain name of the website.
+- com - This is the **TLD (Top Level Domain)** 
