@@ -27,3 +27,5 @@ These are just protocols/rules that the computers/routers/servers follow when se
 		Vulnerable to interception, or un-encrypted.
 	- 443 - HTTPS
 		Secured or encrypted.
+
+# DNS (Domain Name System)
