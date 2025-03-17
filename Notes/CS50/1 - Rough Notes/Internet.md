@@ -44,3 +44,5 @@ In the example:
 - www - This is the host name.
 - example.com - This is the domain name.
 - com - This is the **TLD (Top Level Domain)** 
+
+Each computer has a way to refer to its own IP address 
