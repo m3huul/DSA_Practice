@@ -23,5 +23,5 @@ Now we can use a http-server (A server is just a software running on a machine, 
 
 I used VisualStudios **Live Server** extension to host my test.html file with the code block above^
 
-HTML 
-- 
+Focusing on the html code:
+-  <!DOCTYPE html>
