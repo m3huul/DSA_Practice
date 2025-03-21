@@ -35,4 +35,5 @@ I used VisualStudios **Live Server** extension to host my test.html file with th
 
 
 ## Extras:
-- `<br>` aka break It can be used mid text, and its just line 
+- `<br>` aka break. It can be used mid text, and it moves the cursor to the next line. Like most tags in HTML this doesn't require a closing tag.
+- 
