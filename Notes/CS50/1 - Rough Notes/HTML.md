@@ -6,5 +6,12 @@
 	
 - Taking an example HTML code:
 ```
+<!DOCTYPE html>
 
+<html lang="en">
+	<head>
+		<title>
+			Hello, title
+		</title>
+	<.
 ```
