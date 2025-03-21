@@ -19,4 +19,4 @@
 	</body>
 </html>
 ```
-Now we can use a server (Just software running on a machine)
+Now we can use a server (A server is just a software running on a machine, whose purpose in life is to just handle requests and serve data) to host this html page.
