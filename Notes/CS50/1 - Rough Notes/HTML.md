@@ -24,4 +24,5 @@ Now we can use a http-server (A server is just a software running on a machine, 
 I used VisualStudios **Live Server** extension to host my test.html file with the code block above^
 
 Focusing on the html code:
--  `<!DOCTYPE html>` : This is our document type declaration, its an implicit
+-  `<!DOCTYPE html>` : This is our document type declaration, its an implicit indicator to the browser that the this file is using the latest version of html (which is version 5). 
+- 
