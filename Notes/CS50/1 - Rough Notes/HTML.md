@@ -5,3 +5,6 @@
 	- attributes
 	
 - Taking an example HTML code:
+```
+
+```
