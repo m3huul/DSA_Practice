@@ -31,7 +31,7 @@ I used VisualStudios **Live Server** extension to host my test.html file with th
 - `<html lang="en"> ... </html>` : This is a tag in html, the tag name in this context is html. The tags used in html will generally have a closing tag like this : `</html>` unlike `<!DOCTYPE html>` which is a type declaration (not a tag) and therefore will not have a closing statement.
 	- The `lang="en` part in the code is an attribute, which are similar to function arguments but they are not exactly that. In this context it tells the browser that everything inside html is in english.
 
-- `<head>`, `<title>`, `<body>`: All these tags are children and grand child of the html tag. Each of them individually define individual sections inside a web page.
+- `<head>`, `<title>`, `<body>`: **HEAD, TITLE and BODY TAGS** :  All these tags are children and grand child of the html tag. Each of them individually define individual sections inside a web page.
 
 
 ## Extras:
