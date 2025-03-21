@@ -19,4 +19,6 @@
 	</body>
 </html>
 ```
-Now we can use a server (A server is just a software running on a machine, whose purpose in life is to just handle requests and serve data) to host this html page.
+Now we can use a http-server (A server is just a software running on a machine, whose purpose in life is to just handle requests and serve data) to host this html page.
+
+I used VisualStudios **Li**
