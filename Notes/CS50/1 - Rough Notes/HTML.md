@@ -1,3 +1,4 @@
+## Basics:
 - Its not a programming language, meaning it does not contains methods or variables.
 
 - HTML (Hyper Text Markup Language) : It has main two features:
@@ -33,3 +34,5 @@ I used VisualStudios **Live Server** extension to host my test.html file with th
 - `<head>`, `<title>`, `<body>`: All these tags are children and grand child of the html tag. Each of them individually define individual sections inside a web page.
 
 
+## Extras:
+- `<br>` aka break It can be used mid text, and its just line 
