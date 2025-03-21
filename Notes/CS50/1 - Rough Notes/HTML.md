@@ -19,4 +19,4 @@
 	</body>
 </html>
 ```
-```
+Now we can use a server (Just software running on a machine)
