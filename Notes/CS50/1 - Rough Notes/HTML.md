@@ -21,4 +21,7 @@
 ```
 Now we can use a http-server (A server is just a software running on a machine, whose purpose in life is to just handle requests and serve data) to host this html page.
 
-I used VisualStudios **Li**
+I used VisualStudios **Live Server** extension to host my test.html file with the code block above^
+
+HTML 
+- 
