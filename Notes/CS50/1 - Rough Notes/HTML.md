@@ -28,4 +28,5 @@ Focusing on the html code:
 
 - `<html lang="en"> ... </html>` : This is a tag in html, the tag name in this context is html. The tags used in html will generally have a closing tag like this : `</html>` unlike `<!DOCTYPE html>` which is a type declaration (not a tag) and therefore will not have a closing statement.
 	- The `lang="en` part in the code is an attribute, which are similar to function arguments but they are not exactly that. In this context it tells the browser that everything inside html is in english.
-	- 
+
+- `<head> ... </head>` : This indicates the browser about the head section. 
