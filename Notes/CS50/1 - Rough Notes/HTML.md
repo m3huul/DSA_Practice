@@ -13,5 +13,9 @@
 		<title>
 			Hello, title
 		</title>
-	<.
+	</head>
+	<body>
+		hello, body
+	</body>
+</html>
 ```
