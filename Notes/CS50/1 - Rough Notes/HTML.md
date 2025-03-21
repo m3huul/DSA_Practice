@@ -25,4 +25,4 @@ I used VisualStudios **Live Server** extension to host my test.html file with th
 
 Focusing on the html code:
 -  `<!DOCTYPE html>` : This is our document type declaration, its an implicit indicator to the browser that the this file is using the latest version of html (which is version 5). 
-- `<html lang="en"> ... </html>` : 
+- `<html lang="en"> ... </html>` : This is a tag in html, the tag name in this context is html. The tags used in html will a
