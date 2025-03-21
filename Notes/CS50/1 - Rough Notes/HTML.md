@@ -24,4 +24,4 @@ Now we can use a http-server (A server is just a software running on a machine, 
 I used VisualStudios **Live Server** extension to host my test.html file with the code block above^
 
 Focusing on the html code:
--  <!DOCTYPE html>
+-  `<!DOCTYPE html>` : This is our document type declaration, its an implicit
