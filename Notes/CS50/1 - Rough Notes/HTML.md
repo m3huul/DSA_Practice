@@ -86,4 +86,4 @@ Example Synatx:
 </table>
 ```
 
--  
+- ` <img src="">`
