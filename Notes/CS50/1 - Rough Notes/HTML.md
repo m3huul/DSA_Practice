@@ -102,20 +102,33 @@ Example:
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="A brief description of the page">
-  <meta name="author" content="Your Name">
-  <title>Page Title</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="A brief description of the page">
+	<meta name="author" content="Your Name">
+	
+	<meta property="og:title" content="My Awesome Web Page">
+	<meta property="og:description" content="This is a brief description of my awesome web page.">
+	<meta property="og:image" content="https://example.com/image.jpg">
+	<meta property="og:url" content="https://example.com/page">
+	<title>Page Title</title>
 </head>
 <body>
-  <!-- Page content -->
+	<!-- Page content -->
 </body>
 </html>
 ```
 - `<meta charset="UTF-8">` : Sets the character encoding. `UTF-8` is the most widely used and supports most characters.
 - `<meta name="description" content="...">` : Gives search engines a summary of the page’s content (used in search result snippets).
 - `<meta name="author" content="...">` : Indicates the author of the page.
+- `property` : Defines the Open Graph property. Popup when someone hovers over the link to this html page.
+- `content` : Specifies the value of the property.
 
 
-- 
+- `<form>` **FORM TAG** : A search box.
+Example:
+```
+<form>
+	<input name="q" type="search">
+</form>
+```
