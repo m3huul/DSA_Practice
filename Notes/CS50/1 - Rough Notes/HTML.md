@@ -34,6 +34,7 @@ I used VisualStudios **Live Server** extension to host my test.html file with th
 - `<head>`, `<title>`, `<body>`: **HEAD, TITLE and BODY TAGS** :  All these tags are children and grand child of the html tag. Each of them individually define individual sections inside a web page.
 
 
-## Extras:
+## Key Tags:
 - `<br>` **BREAK TAG** : It can be used mid text, and it moves the cursor to the next line. Like most tags in HTML this doesn't require a closing tag.
-- `<p>`   **PARAGRAPH TAG** : Sets a block of text as a paragraph. It has a closing tag
+- `<p>`   **PARAGRAPH TAG** : Sets a block of text as a paragraph. It has a closing tag.
+- 
