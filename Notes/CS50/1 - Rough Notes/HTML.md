@@ -96,4 +96,26 @@ Example Syntax:
 
 - `<a href=""> </a>` **ANCHOR TAG** : Place a text in between the tags to make the text a hyperlink.
 
+- `<meta name="viewport" content="width=device-width, initial-scale=1.0">` **META TAG** : Its set inside the head tag which basically makes the site responsive by adjusting the layout based on the screen width.
+Example:
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A brief description of the page">
+  <meta name="author" content="Your Name">
+  <title>Page Title</title>
+</head>
+<body>
+  <!-- Page content -->
+</body>
+</html>
+```
+- `<meta charset="UTF-8">` : Sets the character encoding. `UTF-8` is the most widely used and supports most characters.
+- `<meta name="description" content="...">` : Gives search engines a summary of the page’s content (used in search result snippets).
+- `<meta name="author" content="...">` : Indicates the author of the page.
+
+
 - 
