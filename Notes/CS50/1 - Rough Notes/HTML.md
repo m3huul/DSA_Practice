@@ -36,5 +36,27 @@ I used VisualStudios **Live Server** extension to host my test.html file with th
 
 ## Key Tags:
 - `<br>` **BREAK TAG** : It can be used mid text, and it moves the cursor to the next line. Like most tags in HTML this doesn't require a closing tag.
+
 - `<p>`   **PARAGRAPH TAG** : Sets a block of text as a paragraph. It has a closing tag.
-- `<ul>` **UNORDERED LIST** : 
+
+- `<ul>` **UNORDERED LIST** : dotted list. 
+Example Syntax: 
+```
+<ul>
+	<li>foo</li>
+	<li>bar</li>
+	<li>baz</li>
+</ul>
+```
+
+- `<ol>` **ORDERED LIST** :  Numbered List
+Example Syntax:
+```
+<ol>
+	<li>foo</li>
+	<li>bar</li>
+	<li>baz</li>
+</ol>
+```
+
+- `<table>` **TABLE TAG** : 
