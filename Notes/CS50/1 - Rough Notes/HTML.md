@@ -95,3 +95,5 @@ Example Syntax:
 - `<video autoplay loop muted width="1280"> <source src="" type="video/mp4> </video>` **VIDEO TAG** 
 
 - `<a href=""> </a>` **ANCHOR TAG** : Place a text in between the tags to make the text a hyperlink.
+
+- 
