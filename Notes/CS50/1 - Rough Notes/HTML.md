@@ -60,7 +60,7 @@ Example Syntax:
 ```
 
 - `<table>` **TABLE TAG** : Create a table with data
-Example Synatx:
+Example Syntax:
 ```
 <table>
 	<tr>
@@ -86,4 +86,12 @@ Example Synatx:
 </table>
 ```
 
-- ` <img src="">` ****
+- `<img src="">` **IMAGE TAG** : The src brackets will have the location of the image.
+	- It also has an `alt` tag short for 'alterante' text, Its to tell the browser or for the blind users to read the website. Used like: 
+```
+<img alt="Harvard Uni" src="harvard.jpg">
+```
+
+- `<video autoplay loop muted width="1280"> <source src="" type="video/mp4> </video>` **VIDEO TAG** 
+
+- `<a href=""> </a>` **ANCHOR TAG** : Place a text in between the tags to make the text a hyperlink.
