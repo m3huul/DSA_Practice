@@ -133,4 +133,4 @@ Example:
 	<input type="submit">
 </form>
 ```
-A form tag will give us a 
+A form tag will give us a input field 
