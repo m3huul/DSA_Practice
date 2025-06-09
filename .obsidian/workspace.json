@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "HTML"
             }
-          },
-          {
-            "id": "b23056b928492cfa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b23056b928492cfa",
+  "active": "590b4c2f80411765",
   "lastOpenFiles": [
     "Notes/CS50/1 - Rough Notes/Internet.md",
     "Notes/CS50/1 - Rough Notes/HTML.md",
