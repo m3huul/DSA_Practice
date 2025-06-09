@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "HTML"
             }
+          },
+          {
+            "id": "b23056b928492cfa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,11 +179,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "590b4c2f80411765",
+  "active": "b23056b928492cfa",
   "lastOpenFiles": [
     "Notes/CS50/1 - Rough Notes/Internet.md",
     "Notes/CS50/1 - Rough Notes/HTML.md",
