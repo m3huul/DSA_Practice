@@ -133,4 +133,4 @@ Example:
 	<input type="submit">
 </form>
 ```
-A form tag will give us a input field. In our current example we have a form tag with type search which just gives us a clear (x) button, name is just "q" short for query. type = "sub"
+A form tag will give us a input field. In our current example we have a form tag with type = "search" which just gives us a clear (x) button, name is just "q" short for query. type = "submit" denotes the forms button. the action on the top will 
