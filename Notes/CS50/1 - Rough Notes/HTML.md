@@ -128,7 +128,9 @@ Example:
 - `<form>` **FORM TAG** : A search box.
 Example:
 ```
-<form>
+<form action="https://www.google.com/search">
 	<input name="q" type="search">
+	<input type="submit">
 </form>
 ```
+A form tag will give us a 
