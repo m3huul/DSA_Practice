@@ -67,3 +67,6 @@ Another way to add css to a html page>
 ```
 
 A style tag can only be added inside the head tags.
+
+In this example we are using type selector, that is we use body{} to say we are selecting the body tag and that the body tag will use the properties defined inside body{}.
+
