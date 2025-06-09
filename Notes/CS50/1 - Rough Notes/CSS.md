@@ -1,4 +1,4 @@
-CSS or Cascading Style Sheets, is a programming language used to decorate a webpage. Its used to change the looks of everything you can see on a webpage. For example to add colour, change text size, or changing a grid/layout on a webpage.
+CSS or Cascading Style Sheets, is not a programming language. Its used to decorate a webpage. Its used to change the looks of everything you can see on a webpage. For example to add colour, change text size, or changing a grid/layout on a webpage.
 
 There are multiple ways to add css in our HTML we will go over them one by one while going over some css:
 ```
@@ -145,3 +145,5 @@ And our CSS code can be (``style.css``):
 
 In this way, we reference/import our css using ``<link href="style.css" rel="stylesheet">`` where ``rel="stylesheet"`` is just a way of telling the browser that this html file is referencing to ``href="style.css"`` for all the custom style.
 
+## CSS Frameworks
+People on the internet has already written the necessary css to decorate the contents of the page and we can reuse it in the same way we do above using classes, this so so that we don't have to sit and decorate the page ourselves which saves us a lot of time.
