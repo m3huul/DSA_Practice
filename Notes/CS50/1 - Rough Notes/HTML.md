@@ -5,7 +5,7 @@
 	- tags
 	- attributes
 	
-## Taking and example:
+## Taking an example:
 ```
 <!DOCTYPE html>
 
