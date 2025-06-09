@@ -70,3 +70,78 @@ A style tag can only be added inside the head tags.
 
 In this example we are using type selector, that is we use body{} to say we are selecting the body tag and that the body tag will use the properties defined inside body{}.
 
+Another way we can do it:
+```
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<style>
+			.centered {
+				text-align: center;
+			}
+
+			.large{
+				font-size: large;
+			}
+
+			.medium{
+				font-size: medium;
+			}
+
+			.small{
+				font-size: small;
+			}
+		</style>
+		<title>home</title>
+	</head>
+	<body class="centered">
+		<header class="large"> John Harvard </header>
+		<main class="medium"> Welcome to my page! </main>
+		<footer class="small"> Copyright (c) John Harvard 1636 </footer>
+	</body>
+</html>
+```
+
+This way of writing css makes it reusable, In this example we are defining these properties with a name for example the the ``text-align: center`` can be reused anywhere in the html by just adding a ``class="centered"`` attribute to it.
+
+This way is known as ``Class Selector``
+
+## Now to separate the HTML and the CSS code, Lets take an example:
+Our HTML code can be (``Home.HTML``):
+```
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<link href="style.css" rel="stylesheet">
+		<title>home</title>
+	</head>
+	<body class="centered">
+		<header class="large"> John Harvard </header>
+		<main class="medium"> Welcome to my page! </main>
+		<footer class="small"> Copyright (c) John Harvard 1636 </footer>
+	</body>
+</html>
+```
+And our CSS code can be (``style.css``):
+```
+.centered {
+	text-align: center;
+}
+
+.large{
+	font-size: large;
+}
+
+.medium{
+	font-size: medium;
+}
+
+.small{
+	font-size: small;
+}
+```
+
+In this way, we reference/import our css using ``<link href="style.css" rel="stylesheet">`` where ``rel="stylesheet"`` is just a way of telling the browser that this html file is referencing to ``href="style.css"`` for all the custom style.
+
