@@ -133,4 +133,22 @@ Example:
 	<input type="submit">
 </form>
 ```
-A form tag will give us a input field. In our current example we have a form tag with type = "search" which just gives us a clear (x) button, name is just "q" short for query. type = "submit" denotes the forms button. the action on the top will define that whenever the submit button is clicked it will search the url with input given in the form input field.
+A form tag will give us a input field. In our current example we have a form tag with type = "search" which just gives us a clear (x) button for the input field, name is just "q" short for query. type = "submit" denotes the forms button with "Submit" text. the action on the top will define that whenever the submit button is clicked it will search the url with input given in the form input field.
+Example:
+```
+<form action="https://www.google.com/search">
+	<input name="q" type="search">
+	<input type="submit" value="Google Search">
+</form>
+```
+To change the buttons name we can add a value with the submit type.
+Example:
+```
+<form action="https://www.google.com/search">
+	<input autocomplete="off" autofocus name="q" placeholder="Query" type="search">
+	<input type="submit" value="Google Search">
+</form>
+```
+`autocomplete = "off"` Set to off will make it so no suggestions from previous entries will be shown to the user.
+`autofocus` Will make it so the input field is automatically focused when page is loaded.
+`placeholder = "Query"` This means if no text is written by the user in the input field then it would show "Query" there as a placeholder text, to guide user about the form.
