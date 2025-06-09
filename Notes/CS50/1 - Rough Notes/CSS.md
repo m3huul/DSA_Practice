@@ -30,3 +30,40 @@ As the name suggests it will change the paragraphs text size.
 
 This will align the text to the centre of the page
 
+# Style Tag
+Another way to add css to a html page>
+
+```
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<style>
+		
+			body {
+				text-align: center;
+			}
+
+			header{
+				font-size: large;
+			}
+
+			main{
+				font-size: medium;
+			}
+
+			footer{
+				font-size: small;
+			}
+		</style>
+		<title>home</title>
+	</head>
+	<body>
+		<header> John Harvard </header>
+		<main> Welcome to my page! </main>
+		<footer> Copyright (c) John Harvard 1636 </footer>
+	</body>
+</html>
+```
+
+A style tag can only be added inside the head tags.
