@@ -92,7 +92,7 @@ Example Syntax:
 <img alt="Harvard Uni" src="harvard.jpg">
 ```
 
-- `<video autoplay loop muted width="1280"> <source src="" type="video/mp4> </video>` **VIDEO TAG** 
+- `<video autoplay loop muted width="1280"> <source src="" type="video/mp4> </video>` **VIDEO TAG** : Default Video Player of the browser. autoplay, loop and muted are default parameters which can be altered with different values to change the video players behaviour. 
 
 - `<a href=""> </a>` **ANCHOR TAG** : Place a text in between the tags to make the text a hyperlink.
 
