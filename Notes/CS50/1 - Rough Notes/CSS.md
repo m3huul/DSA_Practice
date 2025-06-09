@@ -1,6 +1,6 @@
 CSS or Cascading Style Sheets, is a programming language used to decorate a webpage. Its used to change the looks of everything you can see on a webpage. For example to add colour, change text size, or changing a grid/layout on a webpage.
 
-There are multiple ways to add css in our HTML we will go over them one by one:
+There are multiple ways to add css in our HTML we will go over them one by one while going over some css:
 ```
 <!DOCTYPE html>
 
