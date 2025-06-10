@@ -40,11 +40,11 @@ Example:
 			<button type="submit">Greet</button>
 		</form>
 		<script>
-			document.querySelector('form').addEventListener('submit', function(event)){
+			document.querySelector('form').addEventListener('submit', function(event){
 				let name=document.querySelector('#name').value;
 				alert('hello, '+name);
 				event.preventDefault();
-			}
+			});
 		</script>
 	</body>	
 </html>
