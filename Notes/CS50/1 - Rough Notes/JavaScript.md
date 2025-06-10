@@ -49,3 +49,5 @@ Example:
 	</body>	
 </html>
 ```
+
+Here we are adding js to our html just like we did with css. And in similar way we can reference our js using ref to import it from another file.
